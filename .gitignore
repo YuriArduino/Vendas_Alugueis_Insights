@@ -1,0 +1,14 @@
+# Ambiente Virtual
+V_A_Insights/
+*.venv
+.venv
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de IDEs
+.vscode/
+.idea/
